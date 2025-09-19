@@ -42,7 +42,8 @@ for x in range(len(names)):
 
 print()
 
-# TÄIENDUS: tee igale nimele juhuslik vanus, kuid kirjuta see vanus listi nimega ages. Näita tulemust sama for või while loopis. Peale kordust näita nii names, kui ages listi sisu lihsalt nagu listid.py failis näitasime.
+# TÄIENDUS: tee igale nimele juhuslik vanus, kuid kirjuta see vanus listi nimega ages. Näita tulemust sama for või while loopis. 
+# Peale kordust näita nii names, kui ages listi sisu lihsalt nagu listid.py failis näitasime.
 
 ages = []
 for x in range(len(names)):
