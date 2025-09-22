@@ -1,8 +1,8 @@
-# 1. Genereerib 20 juhuslikku täisarvu vahemikus 1–100.
 import random
 from datetime import datetime
 
 file = "Phython/kodune/andmed.txt"
+
 # 1. Genereerib 20 juhuslikku täisarvu vahemikus 1–100.
 arvud = [random.randint(1, 100) for _ in range(20)] # Genereerib 20 juhuslikku täisarvu vahemikus 1–100
 
